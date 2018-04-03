@@ -16,3 +16,7 @@ db.sqlite3
 jobs/migrations/
 
 blog/migrations/
+
+projectHunt/static/
+
+images/
